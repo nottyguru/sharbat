@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:enchanting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:armor_stand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"explorerscompass:explorerscompass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"backpacked:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:string"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:blast_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:golden_apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:enchanted_golden_apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:compass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"naturescompass:naturescompass"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
